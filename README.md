@@ -1,5 +1,5 @@
 # DisasterResponse
-Seattle Air BnB analysis for Udacity  
+DisasterResponse NLP, Model, and dashboard for Udacity nanodegree 
 
 ## Project Overview  
 This project is part of the Udacity DataScientist NanoDegree.  
